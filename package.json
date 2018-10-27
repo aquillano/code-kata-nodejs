@@ -1,0 +1,31 @@
+{
+  "name": "code-kata-nodejs",
+  "version": "0.0.1",
+  "description": "Base environment for doing code katas in NodeJS",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.0.0 <11"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquillano/code-kata-nodejs.git"
+  },
+  "keywords": [
+    "kata",
+    "node",
+    "nodejs",
+    "jest"
+  ],
+  "author": "Steve Aquillano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquillano/code-kata-nodejs/issues"
+  },
+  "homepage": "https://github.com/aquillano/code-kata-nodejs#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
